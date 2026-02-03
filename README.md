@@ -40,13 +40,13 @@ I am a graduate student at **Duke University** (May 2027) with a background in *
 
 ## 🌟 Featured Projects
 
-### 🏗 [Study Group Matcher](https://github.com/tianxuansun) (Backend/SDE)
+### 🏗 [Study Group Matcher](https://github.com/tianxuansun/study-group-matcher) (Backend/SDE)
 **FastAPI | PostgreSQL | Docker | AWS**
 - Built an **async microservice** for course-specific student matching with indexed relational schemas.
 - Implemented **25+ async unit tests** (80% coverage) and automated deployment via **CI/CD** to AWS EC2/ECS.
 - Configured CloudWatch metrics and alarms for system observability.
 
-### 🛡 [CrowdScreen](https://github.com/tianxuansun) (Full-Stack/SDE)
+### 🛡 [CrowdScreen]([https://github.com/tianxuansun](https://github.com/tianxuansun/crowdscreen)) (Full-Stack/SDE)
 **Nuxt 3 | Socket.IO | MongoDB | Kubernetes**
 - Designed a **live content moderation queue** with a real-time rules engine.
 - Integrated **Playwright E2E testing** and gated PRs using GitHub Actions.
@@ -60,10 +60,6 @@ I am a graduate student at **Duke University** (May 2027) with a background in *
 
 ---
 
-## 📈 Activity Snake
-![github contribution grid snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
 
 <p align="center">
   <i>"Turning complex data into actionable code."</i>
