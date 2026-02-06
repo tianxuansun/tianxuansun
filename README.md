@@ -1,6 +1,6 @@
 # Hi, I'm Luke Sun 👋 
 
-### M.S. Computer Science @ Duke University | Data Science & Backend Engineering
+### M.S. Computer Science @ Duke University | Software Engineering & Data Science
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luke-tx-sun)
 [![Portfolio](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tianxuan.sun@duke.edu)
 
