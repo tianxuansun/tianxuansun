@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I am a graduate student at **Duke University** (May 2027) with a background in **Software Engineering** and **Data Science**. I specialize in building scalable microservices, real-time data pipelines, and fine-tuning LLMs for production environments.
+I am a graduate student at **Duke University** (May 2027) with a background in **Software Engineering** and **Data Science**. I specialize in building scalable microservices, real-time data pipelines and fine-tuning LLMs for production environments.
 
 * 🔭 **Currently working on:** Distributed systems and high-performance FastAPI microservices.
 * ⚡ **Past Experience:** Software Engineering Intern @ SANY, Risk Management @ Alibaba.
