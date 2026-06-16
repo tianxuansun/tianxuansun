@@ -1,6 +1,6 @@
 # Hi, I'm Luke Sun 👋 
 
-### M.S. Computer Science @ Duke University | Software Engineering & Data Science
+### Computer Science @ Duke University | Software Engineering & Data Science
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luke-tx-sun)
 [![Portfolio](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tianxuan.sun@duke.edu)
 
@@ -9,7 +9,7 @@
 ## 🚀 About Me
 I am a graduate student at **Duke University** (May 2027) with a background in **Software Engineering** and **Data Science**. I specialize in building scalable microservices, real-time data pipelines and fine-tuning LLMs for production environments.
 
-* 🔭 **Currently working on:** Distributed systems and high-performance FastAPI microservices.
+* 🔭 **Currently working on:** Data Engineering @ Syngenta.
 * ⚡ **Past Experience:** Software Engineering Intern @ SANY, Risk Management @ Alibaba.
 * 🎓 **Education:** M.S. CS @ Duke (4.0/4.0), B.S. Data Science @ Duke.
 
